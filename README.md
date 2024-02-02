@@ -1,5 +1,5 @@
 # Habitat suitability models for Antarctic fur seals (***Arctocephalus gazella***) in climate change scenarios
-This repository contains all the R code used in the article "Future climate-induced distribution shifts in a sexually dimorphic key predator of the Southern Ocean" published in Global Change Biology in February 2024. The tracking data processing & model fitting frameworks have been adapted from David March's work (https://zenodo.org/records/5701286 & https://github.com/dmarch/agazella). 
+This repository contains all the R code used in the article "Future climate-induced distribution shifts in a sexually dimorphic key predator of the Southern Ocean" published in Global Change Biology in February 2024. The tracking data processing & model fitting frameworks have been adapted from David March's work (https://zenodo.org/records/5701286 & https://github.com/dmarch/agazella). Tracking data, environmental predictors and results can be openly found at the repository of the University of Barcelona: https://doi.org/10.34810/data1064. 
 
 Ouled-Cheikh, J., March, D., Borras-Chavez, R., Drago, M., Goebel, M. E., Fariña, J. M., Gazo, M., Coll, M., Cardona L., 2024. Future climate-induced distribution shifts in a sexually dimorphic key predator of the Southern Ocean. ***Global Change Biology***. 
 
